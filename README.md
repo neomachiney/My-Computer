@@ -8,8 +8,6 @@ Everything brought together!
 * **[neomachiney.github.io](https://github.com/neomachiney/neomachiney.github.io)**
 
 # Repositories
-* **[My Articles](https://github.com/neomachiney/My-Articles)**
-* **[My Books](https://github.com/neomachiney/My-Books)** (Private)
 * **[My CTFs](https://github.com/neomachiney/My-CTFs)**
 * **[My Documents](https://github.com/neomachiney/My-Documents)** (Private)
 * **[My Family](https://github.com/neomachiney/My-Family)** (Private)
