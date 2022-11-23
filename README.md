@@ -2,10 +2,10 @@
 Everything brought together!
 
 # Profile
-* **[neomachiney](https://github.com/neomachiney/neomachiney)**
+* **[Neomachiney](https://github.com/neomachiney/neomachiney)**
 
 # Website
-* **[neomachiney.github.io](https://github.com/neomachiney/neomachiney.github.io)**
+* **[Neomachiney.github.io](https://github.com/neomachiney/neomachiney.github.io)**
 
 # Repositories
 * **[My CTFs](https://github.com/neomachiney/My-CTFs)**
